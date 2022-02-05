@@ -14,6 +14,7 @@ Kaggle Notebook Link: https://www.kaggle.com/meetnagadia/cats-vs-dogs-classifica
 # Cats vs Dogs Classification using CNN Tensorflow.Keras
 A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data. A CNN uses a system much like a multilayer perceptron that has been designed for reduced processing requirements
 
+![](https://media.geeksforgeeks.org/wp-content/uploads/cat-vs-dog.jpg)
 
 
 # Now will be using VGG16
